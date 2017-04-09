@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "IOSTREAM": "cpp",
+        "xutility": "cpp",
+        "istream": "cpp",
+        "xlocnum": "cpp",
+        "ios": "cpp",
+        "xiosbase": "cpp",
+        "iosfwd": "cpp",
+        "xlocale": "cpp",
+        "xstring": "cpp",
+        "ostream": "cpp"
+    }
+}
